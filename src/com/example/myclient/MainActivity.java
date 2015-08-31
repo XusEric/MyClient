@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-	    System.out.println("ssssssjjjj");
+	    System.out.println("rrrrrssssssjjjj");
 	    Log.v("MySysOut", "dddjjjjjdd");
 
 	}
